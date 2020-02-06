@@ -1,0 +1,24 @@
+@charset "UTF-8";
+/* CSS Document */
+
+  @import url("https://use.typekit.net/erp3oag.css");
+
+
+h1 {font-size: 16px; font-weight:normal; font-family:Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", "serif";}
+h2 {font-size:18px; font-family:'operetta-12', serif;color:#2B3990;}
+h3 {font-size:14px; font-family:'operetta-12', serif;color:#1B75BC}
+
+/*link styles*/
+/*effect all states*/
+a {padding:5px;}
+/*default*/
+a:link {text-decoration:none; color:#1B75BC} 
+/*visited*/
+a:Visited {text-decoration:none; color:#2B3990;}
+/*hover*/
+a:hover {color:#1B75BC;background-color:#F7941D;}
+/*pressed*/
+a:active {color:#F8BD6D;background-color:#2B3990;}
+ 
+h1 {color:#F743C2; font-family:Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", "serif"}
+
